@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  samukei:
+    image_url: https://pbs.twimg.com/profile_images/905601706867564544/xFB7rYF5_400x400.jpg
+    name: さむけい（藤田）
+    url: https://twitter.com/SAMUKEI
+  kikuchy:
+    image_url: https://pbs.twimg.com/profile_images/481267728/icon_128_400x400.png
+    name: kikuchy（菊池）
+    url: https://twitter.com/kikuchy
+author: 株式会社Diverse
+description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えします
+description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
+email:
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: diversecast
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: love,engineering,programming
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: Diverse Podcast
 url: http://example.com
