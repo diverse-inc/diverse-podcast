@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-4011403-68
 hashtag: diverse-inc
 itunes_podcast_url:
 keywords: love,engineering,programming
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: Diverse Podcast
-url: https://diverse-inc.github.io/diverse-podcast/
+url: https://diverse-podcast.netlify.com/
