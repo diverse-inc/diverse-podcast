@@ -7,6 +7,7 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:image" content="{{ site.github.url }}/images/logo.png" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:image" content="{{ site.github.url }}/images/logo.png" />
   <meta property="og:site_name" content="{{ site.title }}" />
@@ -14,7 +15,7 @@
   <meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 {% if page.description %}
   <meta property="og:audio" content="{{ page.audio_file_path | prepend:site.github.url }}" />
-  <meta property="og:audio:ype" content="audio/mp3" />
+  <meta property="og:audio:type" content="audio/mp3" />
 {% endif %}
   <link rel="alternate" type="application/rss+xml" href="{{ site.github.url }}/feed.xml" />
   <link rel="stylesheet" href="{{ site.github.url }}/css/main.css">
