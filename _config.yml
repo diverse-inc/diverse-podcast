@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: diversecast
+hashtag: diverse-inc
 itunes_podcast_url:
 keywords: love,engineering,programming
 language: ja
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: Diverse Podcast
-url: http://example.com
+url: https://diverse-inc.github.io/diverse-podcast/
