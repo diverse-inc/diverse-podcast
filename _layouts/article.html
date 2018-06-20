@@ -46,7 +46,7 @@
               {% for actor_id in page.actor_ids %}
                 {% assign actor = site.actors[actor_id] %}
                 <a href="{{ actor.url }}" class="actor" target="_blank">
-                  {% if actor.image_url contains 'https://' %}
+                  {% unless actor.image_url contains 'https://' %}
                   {% assign base_url = site.github.url %}
                   {% endif %}
                   <img src="{{ actor.image_url | prepend:base_url }}" alt="{{ actor.name }}" class="actor-image" width="72" height="72">
