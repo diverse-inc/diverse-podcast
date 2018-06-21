@@ -8,7 +8,7 @@ actors:
     name: kikuchy（菊池）
     url: https://twitter.com/kikuchy
 author: 株式会社Diverse
-description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えします
+description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast
 description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
 email:
 exclude:
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics: UA-4011403-68
-hashtag: diverse-inc
+hashtag: diverse_inc
 itunes_podcast_url:
 keywords: love,engineering,programming
 language: ja
