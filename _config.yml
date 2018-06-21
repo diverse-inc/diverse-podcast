@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics: UA-4011403-68
 hashtag: diverse_inc
-twitter_creator: @diverse_inc
+twitter_creator: "@diverse_inc"
 itunes_podcast_url:
 keywords: love,engineering,programming
 language: ja
