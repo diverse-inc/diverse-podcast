@@ -11,6 +11,14 @@ actors:
     image_url: https://pbs.twimg.com/profile_images/867920948133072897/DEMnBFjX_400x400.jpg
     name: とーま（當眞）
     url: https://twitter.com/Amothic
+  imaizume:
+    image_url: https://pbs.twimg.com/profile_images/970198233816317958/20wB1cKR_400x400.jpg
+    name: imaizume（今泉）
+    url: https://twitter.com/imaizume
+  yotsu:
+    image_url: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/36382010_838188353057300_5198613142174695424_n.jpg?_nc_cat=0&oh=2cdf32fa0dfc93216bc2ab7bfcdb1f88&oe=5C30E05C
+    name: yotsu（四柳）
+    url: https://www.facebook.com/giiiita42
 author: 株式会社Diverse
 description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast
 description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
