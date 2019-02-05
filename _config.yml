@@ -31,6 +31,10 @@ actors:
     image_url: https://pbs.twimg.com/profile_images/856888788974317568/1ZW557Cl_400x400.jpg
     name: kanaimarie（金井）
     url: https://twitter.com/kanaimarie
+  yoda:
+    image_url: https://pbs.twimg.com/profile_images/1092395432989224961/d89pVCw2_400x400.jpg
+    name: y-oda（小田）
+    url: https://twitter.com/y_oda_dao
 author: 株式会社Diverse
 description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast
 description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
