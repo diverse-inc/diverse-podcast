@@ -16,21 +16,25 @@ actors:
     name: imaizume（今泉）
     url: https://twitter.com/imaizume
   yotsu:
-    image_url: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/36382010_838188353057300_5198613142174695424_n.jpg?_nc_cat=0&oh=2cdf32fa0dfc93216bc2ab7bfcdb1f88&oe=5C30E05C
+    image_url: https://pbs.twimg.com/profile_images/1045683094903185409/6F6ttya3_400x400.jpg
     name: yotsu（四柳）
-    url: https://www.facebook.com/giiiita42
+    url: https://twitter.com/giiiita_7
   kimiyo:
     image_url: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/40397939_2175103442729929_1789606872450334720_o.jpg?_nc_cat=111&oh=539c7b2e8fbb1f897171c332cb090dcb&oe=5C632E39
     name: 田代
     url: https://www.facebook.com/kimiyo.tashiro.9
   kuratsu:
-    image_url: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/12524236_108446329556343_7925953724152118155_n.jpg?_nc_cat=107&oh=ba43127ed080f8bc77932556bb62e183&oe=5C4B8D66
+    image_url: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/12524236_108446329556343_7925953724152118155_n.jpg?_nc_cat=107&_nc_ht=scontent-nrt1-1.xx&oh=c23ba24305b56fd2a67f46fed43028c4&oe=5CE9C166
     name: 蔵津
     url: https://www.facebook.com/profile.php?id=100011729285192
   kanaimarie:
     image_url: https://pbs.twimg.com/profile_images/856888788974317568/1ZW557Cl_400x400.jpg
     name: kanaimarie（金井）
     url: https://twitter.com/kanaimarie
+  yoda:
+    image_url: https://pbs.twimg.com/profile_images/1092395432989224961/d89pVCw2_400x400.jpg
+    name: y-oda（小田）
+    url: https://twitter.com/y_oda_dao
 author: 株式会社Diverse
 description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast
 description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
