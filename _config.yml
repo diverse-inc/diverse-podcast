@@ -39,6 +39,10 @@ actors:
     image_url: https://pbs.twimg.com/profile_images/484707149109411841/PMEVeRs6_400x400.png
     name: rkowase（小和瀬）
     url: https://twitter.com/rkowase
+  mhidaka:
+    image_url: https://pbs.twimg.com/profile_images/1077731257809698818/w0vVKv48_400x400.jpg
+    name: mhidaka（日高）
+    url: https://twitter.com/mhidaka
 author: 株式会社Diverse
 description: Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast
 description_long: 現代の恋愛離れ、未婚率の上昇を解消すべくさまざまな事業を展開する株式会社Diverse（ダイバース）の社員が、会社/事業の魅力と現状をお伝えする広報Podcast
